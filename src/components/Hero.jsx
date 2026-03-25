@@ -60,13 +60,13 @@ export default function Hero() {
         </div>
 
         {/* YC Badge */}
-        <div className="mt-10 flex items-center gap-2 text-gray-500 text-sm">
+        {/* <div className="mt-10 flex items-center gap-2 text-gray-500 text-sm">
           <span>Backed by</span>
           <div className="bg-orange-500 text-white font-bold px-2 py-0.5 rounded">
             Y
           </div>
           <span>Combinator</span>
-        </div>
+        </div> */}
       </main>
     </div>
   );
